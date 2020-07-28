@@ -5,7 +5,7 @@ The source code and dataset about &lt;Machine Vision for TensorFlow 2>
 
 提示：本工程中只有源码，配套代码所对应的数据集资源太大，请访问www.aianaconda.com进行下载
 
-![Image text](https://github.com/aianaconda/Machine-Vision-for-TensorFlow-2.x-/blob/master/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%E4%B9%8BTensorFlow2.jpg)
+![Image text](https://github.com/aianaconda/Machine-Vision-for-TensorFlow-2.x-/blob/master/jiqishijue.jpg)
 
 #目录说明
 
