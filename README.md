@@ -1,7 +1,7 @@
-# Machine-Vision-for-TensorFlow-2.x
+# <机器视觉之TensorFlow：入门、原理与应用实战>一书源码
 The source code and dataset about &lt;Machine Vision for TensorFlow 2>
 
-<机器视觉之TensorFlow：入门、原理与应用实战>一书源码
+
 
 提示：本工程中只有源码，配套代码所对应的数据集资源太大，请访问www.aianaconda.com进行下载
 
