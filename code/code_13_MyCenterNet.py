@@ -1,10 +1,3 @@
-"""
-@author: 代码医生工作室 
-@公众号：xiangyuejiqiren   （内有更多优秀文章及学习资料）
-@来源: <机器视觉之TensorFlow2入门原理与应用实战>配套代码 
-@配套代码技术支持：bbs.aianaconda.com  
-Created on Thu Mar  7 14:55:44 2019
-"""
 import tensorflow as tf
 import numpy as np
 import sys
@@ -102,7 +95,7 @@ class MyCenterNet:
         kwargs = {  # 配置沙漏模型
             'num_stacks': 2,
             'cnv_dim': 256,
-            'inres': self.input_size,
+            'inputsize': self.input_size,
         }
         heads = {  # 配置输出节点
             'hm': self.num_classes,  # 分类

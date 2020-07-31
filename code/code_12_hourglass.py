@@ -1,11 +1,10 @@
-
-"""
-Created on Sat May 18 06:26:38 2019
-@公众号：xiangyuejiqiren   （内有更多优秀文章及学习资料）
-@来源: <机器视觉之TensorFlow2入门原理与应用实战>配套代码 
-@配套代码技术支持：bbs.aianaconda.com 
-@参考https://github.com/see--/keras-centernet
-#论文https://arxiv.org/pdf/1904.07850.pdf
+"""Hourglass Network for Keras.
+# Reference paper
+- [Objects as Points]
+  (https://arxiv.org/pdf/1904.07850.pdf)
+# Reference implementation
+- [A Keras implementation of CenterNet with pre-trained model]
+  (https://github.com/see--/keras-centernet)
 """
 
 from tensorflow.keras.models import *
@@ -160,7 +159,7 @@ if __name__ == '__main__':
     kwargs = {
         'num_stacks': 2,
         'cnv_dim': 256,
-        'inres': (512, 512),
+        'inputsize': (512, 512),
 
     }
     heads = {
