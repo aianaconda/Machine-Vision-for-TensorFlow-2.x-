@@ -10,6 +10,6 @@ The source code and dataset about &lt;Machine Vision for TensorFlow 2>
 
 #目录说明
 
-![Image text](https://github.com/aianaconda/Machine-Vision-for-TensorFlow-2.x-/blob/master/1.png)
-![Image text](https://github.com/aianaconda/Machine-Vision-for-TensorFlow-2.x-/blob/master/2.png)
-![Image text](https://github.com/aianaconda/Machine-Vision-for-TensorFlow-2.x-/blob/master/3.png)
+![Image text](https://www.aianaconda.com/static/code/tf2_t1.png)
+![Image text](https://www.aianaconda.com/static/code/tf2_t2.png)
+![Image text](https://www.aianaconda.com/static/code/tf2_t3.png)
